@@ -27,5 +27,5 @@ Here is a comparison of different models using standard architectures on several
 
 CIFAR(% errors) | 4000 labels
 -- | --
-Improved GAN (original)  | 18.63 +/- 2.32
-Improved GAN (ours) | **17.34 +/- 1.97**
+Improved GAN (original)  21.83 +/- 2.01 | 18.63 +/- 2.32
+Improved GAN (ours) | **20.24 +/- 2.17** |**17.34 +/- 1.97**
