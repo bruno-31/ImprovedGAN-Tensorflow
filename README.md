@@ -26,5 +26,6 @@ python train_cifar.py
 Here is a comparison of different models using standard architectures on several datasets (SVHN and CIFAR-10):
 
 CIFAR(% errors) | 4000 labels
+-- | --
 Improved GAN (original)  | 18.63 +/- 2.32
-Improved GAN (ours) | **16.37 +/- 0.42**| **17.34 +/- 1.97**
+Improved GAN (ours) | **17.34 +/- 1.97**
