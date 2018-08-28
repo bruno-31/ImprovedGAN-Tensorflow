@@ -31,7 +31,7 @@ Improved GAN (ours) | **20.24 +/- 2.17** |**17.34 +/- 1.97**
 
 SVHN(% errors) | 1000 labels 
 -- | -- 
-Improved GAN (ours) | **7.12 +/- 1.17** 
+Improved GAN (ours) | **5.12 +/- 1.17** 
 
 ## Experiments on CIFAR-10
 
