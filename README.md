@@ -32,6 +32,3 @@ SVHN(% errors) | 400 labels | 1000 labels
 Improved GAN (ours) | **5.22 +/- 1.02**  | **4.12 +/- 1.23** 
 
 ## Experiments on CIFAR-10
-
-![alt text](https://github.com/bruno-31/ImprovedGAN-Tensorflow/blob/master/figure/test_accuracy_cifar.png)
-![alt text](https://github.com/bruno-31/ImprovedGAN-Tensorflow/blob/master/figure/loss_cifar.png)
