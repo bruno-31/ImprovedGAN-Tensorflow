@@ -3,7 +3,7 @@
 This is a simple Tensorflow implementation of the Semi-Supervised GAN proposed in the paper Improved Techniques
 for Training GANs from Salimans et al. https://arxiv.org/abs/1606.03498
 
-The code reproduces the results presented in the original paper. It uses the same tricks used in the original implementation.
+The code reproduces the results presented in the original paper. It uses the same tricks than the original Theano implementation.
 
 ## Requirements
 
