@@ -21,7 +21,7 @@ To reproduce our results on CIFAR-10
 python train_cifar.py
 ```
 
-## Results
+## Experiments
 
 CIFAR(% errors) | 1000 labels | 4000 labels
 -- | -- | --
@@ -30,5 +30,3 @@ Improved GAN (ours) | **20.24 +/- 2.17** |**17.34 +/- 1.97**
 SVHN(% errors) | 400 labels | 1000 labels 
 -- | -- | --
 Improved GAN (ours) | **5.22 +/- 1.02**  | **4.12 +/- 1.23** 
-
-## Experiments on CIFAR-10
